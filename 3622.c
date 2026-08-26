@@ -9,7 +9,5 @@ bool checkDivisibility(int n) {
 
     }
 
-    return n% (sum+product) == 0;
-     
-        
+    return n% (sum+product) == 0;      
 }
